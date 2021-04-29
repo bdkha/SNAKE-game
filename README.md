@@ -4,7 +4,9 @@ Tải game SNAKE [tại đây](https://drive.google.com/drive/folders/1ASJlbremR
 ###Cách chơi
 
 -Sử dụng các phím AWDS/phím mũi tên dể di chuyển
+
 -Trong khi chơi có thể nhấn P để pause game
+
 -Có thể nhấn ESCAPE để thoát game
 
 
