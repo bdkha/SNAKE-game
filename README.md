@@ -9,4 +9,9 @@ Tải game SNAKE [tại đây](https://drive.google.com/drive/folders/1ASJlbremR
 
 -Có thể nhấn ESCAPE để thoát game
 
+## Thành phần của game
+
+-menu.h: màn hình start menu,end menu,pause menu
+
+-game.h: thực hiện các hoạt động chính của game(tính toán và vẽ background, rắn, score,...)
 
